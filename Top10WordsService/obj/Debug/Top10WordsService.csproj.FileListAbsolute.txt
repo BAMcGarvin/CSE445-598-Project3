@@ -1,0 +1,11 @@
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\obj\Debug\Top10WordsService.csprojAssemblyReference.cache
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\obj\Debug\Top10WordsService.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\bin\Top10WordsService.dll.config
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\bin\Top10WordsService.dll
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\bin\Top10WordsService.pdb
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\bin\HtmlAgilityPack.dll
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\bin\HtmlAgilityPack.pdb
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\bin\HtmlAgilityPack.xml
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\obj\Debug\Top10WordsService.csproj.CopyComplete
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\obj\Debug\Top10WordsService.dll
+C:\Users\Bradley\Desktop\ASU\Grad School Course Work\CSE 598 - Distributed SW Dev\Team61-Project3\Top10WordsService\obj\Debug\Top10WordsService.pdb
