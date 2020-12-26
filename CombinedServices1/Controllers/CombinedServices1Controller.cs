@@ -158,7 +158,7 @@ namespace CombinedServices1.Controllers
 
             // The following string value is my customer API key provided by RAPIDAPI =  X-RapidAPI-Key.
             // This API-Key is not to be shared or redistributed per RAPIDAPI and Contextual Web Search
-            string X_RapidAPI_Key = "5a5253c477msh76f2b6105e0779fp17864fjsn3cece75bd395";
+            string X_RapidAPI_Key = GET YOUR OWN API KEY!!!!;
 
 
             /*
